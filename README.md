@@ -3,13 +3,13 @@ The Growing Need for Mental Wellness Support
 Mental health issues are on the rise globally, with stress, anxiety, and
 isolation becoming prevalent.
 Key challenges:
-Stress and Anxiety: Academic pressures, personal issues, and life
+1.Stress and Anxiety: Academic pressures, personal issues, and life
 transitions.
-Lack of Reflection: Difficulty in tracking emotional patterns and
+2.Lack of Reflection: Difficulty in tracking emotional patterns and
 personal growth.
-Habit Formation: Struggles in building and maintaining healthy habits.
+3.Habit Formation: Struggles in building and maintaining healthy habits.
 Isolation: Limited access to supportive communities and resources.
-Social Media Impact: Negative emotions triggered by social media
+4.Social Media Impact: Negative emotions triggered by social media
 usage.
 These challenges create a cycle of poor mental health, affecting personal
 and academic success.
